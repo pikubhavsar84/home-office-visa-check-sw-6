@@ -1,0 +1,114 @@
+2023-12-18 21:12:838 INFO  StartPage :27 - Clicking on Accept additional cookies
+2023-12-18 21:12:915 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:173 INFO  SelectNationalityPage :28 -  Select nation from drop down list : [[ChromeDriver: chrome on windows (00483384e81d3d64f4c29367dd41b3bb)] -> xpath: //select[@id='response']]
+2023-12-18 21:12:277 INFO  SelectNationalityPage :34 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (00483384e81d3d64f4c29367dd41b3bb)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 21:12:451 INFO  ReasonForTravelPage :40 - select reason 'Tourism ' for visit 
+2023-12-18 21:12:599 INFO  SelectNationalityPage :34 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (00483384e81d3d64f4c29367dd41b3bb)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 21:12:463 INFO  StartPage :27 - Clicking on Accept additional cookies
+2023-12-18 21:12:557 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:842 INFO  SelectNationalityPage :28 -  Select nation from drop down list : [[ChromeDriver: chrome on windows (89242ab5f41e5b641f2fa40058db6297)] -> xpath: //select[@id='response']]
+2023-12-18 21:12:955 INFO  SelectNationalityPage :34 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (89242ab5f41e5b641f2fa40058db6297)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 21:12:143 INFO  ReasonForTravelPage :40 - select reason 'Work, academic visit or business ' for visit 
+2023-12-18 21:12:318 INFO  SelectNationalityPage :34 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (89242ab5f41e5b641f2fa40058db6297)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 21:12:625 INFO  SelectNationalityPage :34 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (89242ab5f41e5b641f2fa40058db6297)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 21:12:836 INFO  WorkTypePage :25 - select job type  ' Health and care professional ' 
+2023-12-18 21:12:962 INFO  SelectNationalityPage :34 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (89242ab5f41e5b641f2fa40058db6297)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 21:12:199 INFO  StartPage :27 - Clicking on Accept additional cookies
+2023-12-18 21:12:305 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:599 INFO  SelectNationalityPage :28 -  Select nation from drop down list : [[ChromeDriver: chrome on windows (9f78d168dfba4cfa1d29e2ae63298163)] -> xpath: //select[@id='response']]
+2023-12-18 21:12:694 INFO  SelectNationalityPage :34 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (9f78d168dfba4cfa1d29e2ae63298163)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 21:12:884 INFO  ReasonForTravelPage :40 - select reason 'Join partner or family for a long stay ' for visit 
+2023-12-18 21:12:32 INFO  SelectNationalityPage :34 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (9f78d168dfba4cfa1d29e2ae63298163)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 21:12:849 INFO  StartPage :27 - Clicking on Accept additional cookies
+2023-12-18 21:12:934 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:256 INFO  SelectNationalityPage :28 -  Select nation from drop down list : [[ChromeDriver: chrome on windows (c980668dee8f34190188fe2d1e3114fd)] -> xpath: //select[@id='response']]
+2023-12-18 21:12:364 INFO  SelectNationalityPage :34 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (c980668dee8f34190188fe2d1e3114fd)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 21:12:576 INFO  ReasonForTravelPage :40 - select reason 'Tourism ' for visit 
+2023-12-18 21:12:721 INFO  SelectNationalityPage :34 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (c980668dee8f34190188fe2d1e3114fd)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 21:12:371 INFO  StartPage :27 - Clicking on Accept additional cookies
+2023-12-18 21:12:467 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:799 INFO  SelectNationalityPage :28 -  Select nation from drop down list : [[ChromeDriver: chrome on windows (d443239208c47ecf164ab0855f935cd1)] -> xpath: //select[@id='response']]
+2023-12-18 21:12:949 INFO  SelectNationalityPage :34 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (d443239208c47ecf164ab0855f935cd1)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 21:12:161 INFO  ReasonForTravelPage :40 - select reason 'Work, academic visit or business ' for visit 
+2023-12-18 21:12:318 INFO  SelectNationalityPage :34 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (d443239208c47ecf164ab0855f935cd1)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 21:12:679 INFO  SelectNationalityPage :34 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (d443239208c47ecf164ab0855f935cd1)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 21:12:869 INFO  WorkTypePage :25 - select job type  ' Health and care professional ' 
+2023-12-18 21:12:08 INFO  SelectNationalityPage :34 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (d443239208c47ecf164ab0855f935cd1)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 21:12:679 INFO  StartPage :27 - Clicking on Accept additional cookies
+2023-12-18 21:12:814 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:97 INFO  SelectNationalityPage :28 -  Select nation from drop down list : [[ChromeDriver: chrome on windows (6dd8ba389fbb76422f7cae22875650a3)] -> xpath: //select[@id='response']]
+2023-12-18 21:12:263 INFO  SelectNationalityPage :34 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (6dd8ba389fbb76422f7cae22875650a3)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 21:12:478 INFO  ReasonForTravelPage :40 - select reason 'Join partner or family for a long stay ' for visit 
+2023-12-18 21:12:637 INFO  SelectNationalityPage :34 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (6dd8ba389fbb76422f7cae22875650a3)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 21:12:920 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:973 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:851 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:717 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:626 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:568 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:579 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:605 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:669 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:654 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:947 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:747 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:972 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:249 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:370 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:529 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:668 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:793 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:21 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:180 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:213 INFO  StartPage :27 - Clicking on Accept additional cookies
+2023-12-18 21:12:297 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:601 INFO  SelectNationalityPage :31 -  Select nation from drop down list : [[ChromeDriver: chrome on windows (66f69beba7bbb25fcb34a9b71eb9ae46)] -> xpath: //select[@id='response']]
+2023-12-18 21:12:702 INFO  SelectNationalityPage :37 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (66f69beba7bbb25fcb34a9b71eb9ae46)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 21:12:887 INFO  ReasonForTravelPage :40 - select reason 'Tourism ' for visit 
+2023-12-18 21:12:35 INFO  SelectNationalityPage :37 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (66f69beba7bbb25fcb34a9b71eb9ae46)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 21:12:195 INFO  StartPage :27 - Clicking on Accept additional cookies
+2023-12-18 21:12:278 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:625 INFO  SelectNationalityPage :31 -  Select nation from drop down list : [[ChromeDriver: chrome on windows (0e189f839108bfd5633a1a4e69f32f68)] -> xpath: //select[@id='response']]
+2023-12-18 21:12:708 INFO  SelectNationalityPage :37 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (0e189f839108bfd5633a1a4e69f32f68)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 21:12:893 INFO  ReasonForTravelPage :40 - select reason 'Work, academic visit or business ' for visit 
+2023-12-18 21:12:45 INFO  SelectNationalityPage :37 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (0e189f839108bfd5633a1a4e69f32f68)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 21:12:322 INFO  SelectNationalityPage :37 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (0e189f839108bfd5633a1a4e69f32f68)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 21:12:573 INFO  WorkTypePage :25 - select job type  ' Health and care professional ' 
+2023-12-18 21:12:650 INFO  SelectNationalityPage :37 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (0e189f839108bfd5633a1a4e69f32f68)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 21:12:39 INFO  StartPage :27 - Clicking on Accept additional cookies
+2023-12-18 21:12:131 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 21:12:407 INFO  SelectNationalityPage :31 -  Select nation from drop down list : [[ChromeDriver: chrome on windows (721e22e7dfcadcf890b306b26d342d5d)] -> xpath: //select[@id='response']]
+2023-12-18 21:12:512 INFO  SelectNationalityPage :37 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (721e22e7dfcadcf890b306b26d342d5d)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 21:12:690 INFO  ReasonForTravelPage :40 - select reason 'Join partner or family for a long stay ' for visit 
+2023-12-18 21:12:853 INFO  SelectNationalityPage :37 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (721e22e7dfcadcf890b306b26d342d5d)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 23:12:373 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 23:12:953 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 23:12:156 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 23:12:370 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 23:12:418 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 23:12:564 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 23:12:765 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 23:12:79 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 23:12:391 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 23:12:489 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 23:12:625 INFO  StartPage :27 - Clicking on Accept additional cookies
+2023-12-18 23:12:723 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 23:12:40 INFO  SelectNationalityPage :31 -  Select nation from drop down list : [[ChromeDriver: chrome on windows (760a2d9042013d952cbf0fe46c523eae)] -> xpath: //select[@id='response']]
+2023-12-18 23:12:131 INFO  SelectNationalityPage :37 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (760a2d9042013d952cbf0fe46c523eae)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 23:12:415 INFO  ReasonForTravelPage :40 - select reason 'Tourism ' for visit 
+2023-12-18 23:12:482 INFO  SelectNationalityPage :37 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (760a2d9042013d952cbf0fe46c523eae)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 23:12:779 INFO  StartPage :27 - Clicking on Accept additional cookies
+2023-12-18 23:12:878 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 23:12:150 INFO  SelectNationalityPage :31 -  Select nation from drop down list : [[ChromeDriver: chrome on windows (630d98d84fb6e0e86cbbbdd56ce48436)] -> xpath: //select[@id='response']]
+2023-12-18 23:12:237 INFO  SelectNationalityPage :37 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (630d98d84fb6e0e86cbbbdd56ce48436)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 23:12:418 INFO  ReasonForTravelPage :40 - select reason 'Work, academic visit or business ' for visit 
+2023-12-18 23:12:566 INFO  SelectNationalityPage :37 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (630d98d84fb6e0e86cbbbdd56ce48436)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 23:12:870 INFO  SelectNationalityPage :37 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (630d98d84fb6e0e86cbbbdd56ce48436)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 23:12:45 INFO  WorkTypePage :25 - select job type  ' Health and care professional ' 
+2023-12-18 23:12:160 INFO  SelectNationalityPage :37 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (630d98d84fb6e0e86cbbbdd56ce48436)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 23:12:440 INFO  StartPage :27 - Clicking on Accept additional cookies
+2023-12-18 23:12:523 INFO  StartPage :32 - Clicking on start button Start now
+2023-12-18 23:12:836 INFO  SelectNationalityPage :31 -  Select nation from drop down list : [[ChromeDriver: chrome on windows (6e96ad9d14356e53cb9a10b909912cf7)] -> xpath: //select[@id='response']]
+2023-12-18 23:12:916 INFO  SelectNationalityPage :37 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (6e96ad9d14356e53cb9a10b909912cf7)] -> xpath: //button[contains(text(),'Continue')]]
+2023-12-18 23:12:100 INFO  ReasonForTravelPage :40 - select reason 'Join partner or family for a long stay ' for visit 
+2023-12-18 23:12:260 INFO  SelectNationalityPage :37 - Click on Continue after selecting nationality[[ChromeDriver: chrome on windows (6e96ad9d14356e53cb9a10b909912cf7)] -> xpath: //button[contains(text(),'Continue')]]
